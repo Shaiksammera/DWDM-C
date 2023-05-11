@@ -14,6 +14,11 @@ EXP: Multiplication
 
 ![Screenshot (169)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/9744de1d-b0b5-460e-a078-2a2fdb40b04d)
 
+EXP: Division
+
+![rr](https://github.com/Shaiksammera/DWDM-C/assets/112576522/6366e028-2d66-4e0b-ac2b-dd007ebac758)
+
+
 
 
 

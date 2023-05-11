@@ -18,6 +18,11 @@ EXP: Division
 
 ![rr](https://github.com/Shaiksammera/DWDM-C/assets/112576522/6366e028-2d66-4e0b-ac2b-dd007ebac758)
 
+EXP: Scatter plot
+
+![Screenshot (170)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/8757699a-bcbf-4be5-8906-5e72730ffc71)
+
+
 
 
 

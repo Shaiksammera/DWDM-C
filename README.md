@@ -22,6 +22,11 @@ EXP: Scatter plot
 
 ![Screenshot (170)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/8757699a-bcbf-4be5-8906-5e72730ffc71)
 
+EXP: Horizontal plot
+
+![Screenshot (171)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/346e4f1d-294d-4e5b-a3e4-84476712372e)
+
+
 
 
 

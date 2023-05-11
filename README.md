@@ -6,5 +6,10 @@ EXP : Even or odd
 
 ![Screenshot (168)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/95d17cd8-3207-4541-9d4a-7bd8999f747e)
 
+EXP: Addition
+
+![Screenshot (168)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/1e760cff-de04-4c46-839c-c924c2312b15)
+
+
 
 

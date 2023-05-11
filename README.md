@@ -4,6 +4,7 @@ EXP: Substraction
 
 EXP : Even or odd
 
-![image](https://github.com/Shaiksammera/DWDM-C/assets/112576522/2cffddd0-c6eb-4d5f-a352-a2c32ded51fd)
+![Screenshot (168)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/95d17cd8-3207-4541-9d4a-7bd8999f747e)
+
 
 

@@ -26,6 +26,11 @@ EXP: Horizontal plot
 
 ![Screenshot (171)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/346e4f1d-294d-4e5b-a3e4-84476712372e)
 
+EXP: Histogram
+
+![Screenshot (172)](https://github.com/Shaiksammera/DWDM-C/assets/112576522/6d969772-edb8-40b7-91ee-64f07c1d6ca1)
+
+
 
 
 
